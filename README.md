@@ -67,7 +67,7 @@ I am a Full Stack Developer focused on software design, Clean Architecture, and 
 - Adopted spec-driven and agentic development workflows throughout planning, implementation, and verification.
 - **Technologies:** TypeScript, React.js, Next.js, Java, Python, PostgreSQL.
 
-#### Full Stack Developer — Audio Processing Platform
+#### Full Stack Developer — [Audio Processing Platform](https://github.com/KisleAb03/audio-processor-platform)
 *Jala University Project • High-Performance Media Pipeline*
 - Designed and implemented a full-stack audio platform with ASP.NET Core, React, and TypeScript.
 - Architected an asynchronous processing pipeline for audio compression, voice enhancement, transcription, and AI-powered summarization.
