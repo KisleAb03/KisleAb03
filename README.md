@@ -5,7 +5,7 @@
 **Full Stack Software Developer**  
 *Clean Architecture • Distributed Systems • High-Performance Web Applications*
 
-Puebla, Mexico
+Mexico
 
 ---
 
