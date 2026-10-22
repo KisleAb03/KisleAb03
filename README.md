@@ -10,7 +10,6 @@
   <a href="mailto:kislev.espana@jala.university"><img src="https://img.shields.io/badge/Email-kislev.espana%40jala.university-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Mexico%20🇲🇽-006847?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square" alt="Status" />
-  <a href="https://linkedin.com/in/karla-kislev-abrajan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
